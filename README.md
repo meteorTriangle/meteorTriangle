@@ -12,10 +12,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/triangle.maker.tw/)](https://www.instagram.com/triangle.maker.tw/)
 [![Discord Badge](https://img.shields.io/badge/Discord-2F3FAF?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/849295100835921990)](https://discordapp.com/users/849295100835921990)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0966459924qpwo@gmail.com)](mailto:0966459924qpwo@gmail.com)  
-
-<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=160>
-<img alt="Profile" src="https://github-readme-stats.vercel.app/api?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=160>
-
+<div>
+  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=160 align="left">
+  <img alt="Profile" src="https://github-readme-stats.vercel.app/api?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=160 align="left">
+</div>
 <!--
 **meteorTriangle/meteorTriangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
