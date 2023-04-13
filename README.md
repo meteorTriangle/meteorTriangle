@@ -1,14 +1,20 @@
-## Welcome To My Profile 😎!
-I'm Triangle Alien, a 18-year-old Taiwanese high school student.
+<h1 align="center"> Welcome To My Profile 😎!  </h1>
+<h2 align="center"> I'm Triangle_Alien(蔡丞銳), a 18-year-old Taiwanese high school student</h2>
 
 ### Some infos about me:
-- 🔭 I’m currently working on a miniature model of stage with <b>[@Asia maker gym](https://www.facebook.com/MakerGym)</b>.
+- 🔭 I’m currently working on a miniature model of stage with <b>[@Asia maker gym](https://www.facebook.com/MakerGym)</b>
+- 😄 My Pronouns: **He/Him**
+- 🌱 I’m currently learning: **Javascript**, **C/C++**, **Python**
+- 💕 My favorites: **Python**, **C/C++**
+- 👍 I'm still good at: **LabVIEW**
 
 ### Get to know me more
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/triangle.maker.tw/)](https://www.instagram.com/triangle.maker.tw/)
+[![Discord Badge](https://img.shields.io/badge/Discord-2F3FAF?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/849295100835921990)](https://discordapp.com/users/849295100835921990)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0966459924qpwo@gmail.com)](mailto:0966459924qpwo@gmail.com)  
 
-![Triangle's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteorTriangle)
+<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=180>
+<img alt="Profile" src="https://github-readme-stats.vercel.app/api?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=180>
 
 <!--
 **meteorTriangle/meteorTriangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
