@@ -2,7 +2,7 @@
 <h2 align="center"> I'm Triangle_Alien(蔡丞銳), a 18-year-old Taiwanese high school student</h2>
 
 ### Some infos about me:
-- 🔭 I’m currently working on a miniature model of stage with <b>[@Asia maker gym](https://www.facebook.com/MakerGym)</b>
+- 🔭 I’m currently working on  a miniature model of stage with <b>[@Asia maker gym](https://www.facebook.com/MakerGym)</b>
 - 😄 My Pronouns: **He/Him**
 - 🌱 I’m currently learning: **Javascript**, **C/C++**, **Python**
 - 💕 My favorites: **Python**, **C/C++**
