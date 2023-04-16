@@ -13,7 +13,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-2F3FAF?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/849295100835921990)](https://discordapp.com/users/849295100835921990)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0966459924qpwo@gmail.com)](mailto:0966459924qpwo@gmail.com)  
 <div>
-  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&theme=dark&hide_border=true" Height=160 align="left">
+  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&theme=dark&hide_border=true&langs_count=6" Height=160 align="left">
   <img alt="Profile" src="https://github-readme-stats.vercel.app/api?username=meteorTriangle&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true" Height=160 align="left">
 </div>
 <!--
