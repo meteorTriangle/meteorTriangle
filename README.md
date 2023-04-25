@@ -14,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0966459924qpwo@gmail.com)](mailto:0966459924qpwo@gmail.com)  
 <div>
   <img alt="Profile" src="https://github-readme-stats-ten-omega-24.vercel.app/api?username=meteorTriangle&layout=compact&hide_border=true&count_private=true&show_icons=true" Width=400 align="left">
-  <img alt="TopLangs" src="https://github-readme-stats-ten-omega-24.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&hide_border=true&langs_count=6&exclude_repo=Engineering-Skills-Competition,52.national.skill.competition,myRIO_FPGA_tri-edition" Width=300 align="left">
+  <img alt="TopLangs" src="https://github-readme-stats-ten-omega-24.vercel.app/api/top-langs/?username=meteorTriangle&layout=compact&hide_border=true&langs_count=6&exclude_repo=Engineering-Skills-Competition,52.national.skill.competition" Width=300 align="left">
 </div>
 <!--
 **meteorTriangle/meteorTriangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
