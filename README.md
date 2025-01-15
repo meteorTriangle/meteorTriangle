@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on  a miniature model of stage with <b>[@Asia maker gym](https://www.facebook.com/MakerGym)</b>
 - 😄 My Pronouns: **He/Him**
 - 🌱 I’m currently learning: **Javascript**, **C/C++**, **Python**
-- 💕 My favorites: **Python**, **C/C++**
-- 👍 I'm still good at: **LabVIEW**
+- 💕 My favorites: **C/C++**, **Python**
 
 ### Get to know me more
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/triangle.maker.tw/)](https://www.instagram.com/triangle.maker.tw/)
