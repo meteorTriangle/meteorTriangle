@@ -2,7 +2,7 @@
 <h2 align="center"> Triangle_Alien(蔡丞銳) - Electronics Engineer & Creator</h2>
 
 ## About Me
-Hello! I’m **meteorTriangle**, 24 years old, and passionate about electronics engineering and hardware design, with a special focus on embedded systems and low-power display technologies. I’m currently an electronics engineer and the founder of [Triangle Alien Studio](https://tindie.com/stores/trianglealienstudio/), where I develop innovative electronic products like E-Paper Modules, DIY development tools, and other fun tech gadgets.
+Hello! I’m **Triangle Alien**, 24 years old, and passionate about electronics engineering and hardware design, with a special focus on embedded systems and low-power display technologies. I’m currently an electronics engineer and the founder of [Triangle Alien Studio](https://tindie.com/stores/trianglealienstudio/), where I develop innovative electronic products like E-Paper Modules, DIY development tools, and other fun tech gadgets.
 
 My passion lies in blending creativity with technology to empower the maker community and developers to bring their wildest project ideas to life. When I’m not designing circuits, you might find me in the lab or exploring quirky hardware projects!
 
