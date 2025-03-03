@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome To My Profile 😎!  </h1>
-<h2 align="center"> I'm Triangle_Alien(蔡丞銳), a 18-year-old Taiwanese high school student</h2>
+<h2 align="center"> I'm Triangle_Alien(蔡丞銳)</h2>
 
 ### Some infos about me:
 - 😄 My Pronouns: **He/Him**
